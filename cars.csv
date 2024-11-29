@@ -1,0 +1,16 @@
+id,brand,model,price,description,image_url
+1,Toyota,Camry,25000,A reliable sedan.,/static/images/toyota_camry.jpeg
+2,Honda,Civic,22000,A compact car with great mileage.,/static/images/honda_civic.jpeg
+3,Tesla,Model S,80000,An electric luxury car.,/static/images/tesla_model_s.jpeg
+4,Ford,Mustang,35000,A classic American muscle car.,/static/images/ford_mustang.jpeg
+5,Nissan,Altima,24000,An affordable mid-sized sedan.,/static/images/nissan_altima.jpeg
+6,BMW,3 Series,45000,A luxury sports sedan.,/static/images/bmw_3_series.jpeg
+7,Mercedes-Benz,C-Class,52000,An elegant and powerful compact sedan.,/static/images/mercedes_c_class.jpeg
+8,Audi,A4,48000,A stylish and advanced sedan.,/static/images/audi_a4.jpeg
+9,Chevrolet,Impala,31000,A comfortable full-size car.,/static/images/chevrolet_impala.jpeg
+10,Hyundai,Elantra,21000,A budget-friendly compact car.,/static/images/hyundai_elantra.jpeg
+11,Kia,Sorento,29000,A practical and spacious SUV.,/static/images/kia_sorento.jpeg
+12,Jeep,Wrangler,45000,A rugged and versatile off-road SUV.,/static/images/jeep_wrangler.jpeg
+13,Subaru,Outback,30000,A dependable and adventure-ready crossover.,/static/images/subaru_outback.jpeg
+14,Volkswagen,Passat,27000,A refined and efficient mid-sized sedan.,/static/images/volkswagen_passat.jpeg
+15,Mazda,CX-5,28000,A sporty and fun compact SUV.,/static/images/mazda_cx5.jpeg
